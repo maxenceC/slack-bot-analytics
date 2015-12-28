@@ -4,7 +4,7 @@
 // Replace with your client ID from the developer console.
 
 AuthorisationHandler = function () {
-    this.CLIENT_ID = '693417949188-gbmvsacgshmmm026fg5iqh63hn0pvost.apps.googleusercontent.com';
+    this.CLIENT_ID = '';
     this.SCOPES = ['https://www.googleapis.com/auth/analytics.readonly'];
 };
 
