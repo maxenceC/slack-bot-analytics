@@ -6,7 +6,7 @@
 FlowRouter.route('/home', {
     action: function (params, queryParams) {
         console.log("Yeah! We are on the post:", params.postId);
-        //BlazeLayout.render("home");
+        BlazeLayout.render('mainLayout', { top: "header", main: "home" });
     },
     name: "home" // optional
 });

@@ -15,6 +15,5 @@ Template.login.onRendered(function () {
 });
 
 Template.login.onDestroyed(function () {
-    //add your statement here
 });
 

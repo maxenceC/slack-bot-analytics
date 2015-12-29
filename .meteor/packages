@@ -23,3 +23,7 @@ http
 
 kadira:flow-router
 kadira:blaze-layout
+maxencecornet:ganalytics
+
+semantic:ui
+flemay:less-autoprefixer
